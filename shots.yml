@@ -1,3 +1,6 @@
 - url: https://integrada.minhabiblioteca.com.br/reader/books/9786558820499/epubcfi/6/18[%3Bvnd.vst.idref%3Dsumario.xhtml]!/4[LEJDERMAN_Completo-6]
   output: shot.png
   height: 800
+- url: https://plataforma.bvirtual.com.br/Leitor/Publicacao/208080/pdf/0?code=oCf6M7gnn6dhty7EBw827gRr9mYPUA16eSqXk6RfbQsEObACyBSrIFnZM8kBfn+KwsF4hh2quCFW67Mbq8r96g==
+  output: shot.png
+  height: 800
